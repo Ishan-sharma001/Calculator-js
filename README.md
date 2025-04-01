@@ -16,3 +16,7 @@ A simple, easy-to-use calculator built using **JavaScript**, **HTML**, and **CSS
 - **HTML**: Used to structure the web page and elements
 - **CSS**: Used for styling, layout, and making the calculator responsive
 - **JavaScript**: Handles the calculation logic and DOM manipulation
+
+<div style="text-align: center;">
+  <img src="calculator.png" alt="Calculator Image" width="300"/>
+</div>
